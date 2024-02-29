@@ -34,3 +34,9 @@ Para ejecutar el proyecto, sigue estos pasos:
 3. Ingresa el número de Fibonacci que deseas calcular cuando se solicite.
 4. El programa mostrará el resultado tanto en formato decimal como en segundos, además de imprimir la sucesión de Fibonacci en la cinta de la Máquina de Turing.
 
+
+## Análisis empírico 
+
+En el siguiente documento se detalla el funcionamiento de la máquina de Turing en relación con la sucesión de Fibonacci. Además, se incluye el diagrama de la máquina y se analiza la regresión lineal de la máquina de Turing con diferentes entradas.
+
+<a href= './Proyecto 1.pdf'> Informe de proyecto </a>
